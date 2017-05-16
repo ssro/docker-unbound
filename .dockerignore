@@ -3,3 +3,4 @@ Dockerfile
 .git*
 .dockerignore
 circle.yml
+README*
