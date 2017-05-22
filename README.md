@@ -2,7 +2,10 @@
 
 [![Docker Repository on Quay](https://quay.io/repository/ssro/docker-unbound/status "Docker Repository on Quay")](https://quay.io/repository/ssro/docker-unbound)
 
-### Quick and dirty DNS cache powered by unbound on docker
+### "Quick and dirty" DNS cache server powered by Unbound on Docker
+
+![unbound](https://www.unbound.net/gx/unbound-250.png)
+![docker](https://www.docker.com/sites/default/files/vertical_large.png) 
 
 # How To Use:
 
