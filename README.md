@@ -1,5 +1,7 @@
 # docker-unbound
 
+[![Docker Repository on Quay](https://quay.io/repository/ssro/docker-unbound/status "Docker Repository on Quay")](https://quay.io/repository/ssro/docker-unbound)
+
 ### Quick and dirty DNS cache powered by unbound on docker
 
 # How To Use:
