@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:latest
 
 LABEL maintainer="Sebastian Sasu <sebi@nologin.ro>" description="Unbound DNS cache"
 
